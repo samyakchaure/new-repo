@@ -1,4 +1,3 @@
 # first-repo
 
-# Hello World !
-What's up ?
+This is the first repository created!
